@@ -9,4 +9,4 @@ Training project
 - Adaptability
 - Crossbrowser code
 - Forms
-### Deploy: https://seriakovaoksana.github.io/Residential-complex/
+### Deploy: https://oxymoor.github.io/Residential-complex/
